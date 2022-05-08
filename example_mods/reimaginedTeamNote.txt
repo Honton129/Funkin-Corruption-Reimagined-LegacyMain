@@ -1,0 +1,3 @@
+The Custom Notes are made with lua but the mechanic of them with source code
+
+charDance script was made by bbpanzu btw lmao

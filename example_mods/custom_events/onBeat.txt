@@ -1,0 +1,9 @@
+If The "charDance" Lua is on the
+data song folder and
+if the value 1 is with true
+the character will dance more fast.
+
+for desactivate just put in value 1
+false
+
+script made by bbpanzu.

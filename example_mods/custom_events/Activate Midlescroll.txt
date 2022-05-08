@@ -1,0 +1,5 @@
+Value 1: if you writed "true" middlescroll will activate
+without the need of be checked on options.
+
+else if you writed "false"
+it will desactivate or just wont do anything.
